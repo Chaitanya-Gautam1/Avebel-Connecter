@@ -16,7 +16,7 @@
   - Connected user
   - Table count in `public` schema
 
-![Connection Tab](screenshots/connection-tab.png)
+![Connection Tab](screenshots/1.png)
 
 ---
 
@@ -25,7 +25,7 @@
 - Double-click a table to preview up to 1000 rows of data.
 - Automatically shows column names and types even if the table is empty.
 
-![Browser Tab](screenshots/browser-tab.png)
+![Browser Tab](screenshots/2.png)
 
 ---
 
@@ -34,7 +34,7 @@
 - Displays formatted results with row counts.
 - Supports all SQL: `SELECT`, `INSERT`, `UPDATE`, `DELETE`, DDL, etc.
 
-![Query Tab](screenshots/query-tab.png)
+![Query Tab](screenshots/3.png)
 
 ---
 
@@ -43,7 +43,7 @@
 - Load SQL from file or save your current script.
 - Quickly deploy table structures or indexes.
 
-![Schema Tab](screenshots/schema-tab.png)
+![Schema Tab](screenshots/4.png)
 
 ---
 
@@ -52,7 +52,7 @@
 - List existing user-created databases.
 - Drop databases with confirmation.
 
-![Database Tab](screenshots/database-tab.png)
+![Database Tab](screenshots/5.png)
 
 ---
 
@@ -62,7 +62,7 @@
 - Drop tables safely with visual confirmation.
 - Add/edit records through a form-based UI (with null handling).
 
-![Table Tab](screenshots/table-tab.png)
+![Table Tab](screenshots/6.png)
 
 ---
 
@@ -129,8 +129,7 @@ Avebel-Connecter/
 ├── icons/
 │   └── avebel.ico
 ├── main.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
@@ -148,13 +147,6 @@ Avebel-Connecter/
 
 All credentials are used **only at runtime** and are not stored or logged locally. Avebel-Connecter does not collect any analytics or make outbound requests.
 
----
-
-## 🖼️ Screenshots
-
-Soon
-
----
 
 ## 🧠 Future Plans
 
