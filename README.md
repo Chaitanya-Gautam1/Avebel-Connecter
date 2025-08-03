@@ -77,7 +77,7 @@
 ## 🖥️ How to Use
 
 ### Option 1: Run the EXE (Windows)
-1. Download `Avebel-Connecter.exe` from the [Releases](#) section (built using PyInstaller).
+1. Download `Avebel-Connecter.exe` from the [Releases](https://github.com/Chaitanya-Gautam1/Avebel-Connecter/releases) section (built using PyInstaller).
 2. Run it — no Python or installation required.
 
 ### Option 2: Run from Source (Python 3.7+)
