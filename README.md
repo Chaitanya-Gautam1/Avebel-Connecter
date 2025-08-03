@@ -16,7 +16,7 @@
   - Connected user
   - Table count in `public` schema
 
-![Connection Tab](screenshots/1.png)
+![Connection Tab](screenshots/1.PNG)
 
 ---
 
@@ -25,7 +25,7 @@
 - Double-click a table to preview up to 1000 rows of data.
 - Automatically shows column names and types even if the table is empty.
 
-![Browser Tab](screenshots/2.png)
+![Browser Tab](screenshots/2.PNG)
 
 ---
 
@@ -34,7 +34,7 @@
 - Displays formatted results with row counts.
 - Supports all SQL: `SELECT`, `INSERT`, `UPDATE`, `DELETE`, DDL, etc.
 
-![Query Tab](screenshots/3.png)
+![Query Tab](screenshots/3.PNG)
 
 ---
 
@@ -43,7 +43,7 @@
 - Load SQL from file or save your current script.
 - Quickly deploy table structures or indexes.
 
-![Schema Tab](screenshots/4.png)
+![Schema Tab](screenshots/4.PNG)
 
 ---
 
@@ -52,7 +52,7 @@
 - List existing user-created databases.
 - Drop databases with confirmation.
 
-![Database Tab](screenshots/5.png)
+![Database Tab](screenshots/5.PNG)
 
 ---
 
@@ -62,7 +62,7 @@
 - Drop tables safely with visual confirmation.
 - Add/edit records through a form-based UI (with null handling).
 
-![Table Tab](screenshots/6.png)
+![Table Tab](screenshots/6.PNG)
 
 ---
 
